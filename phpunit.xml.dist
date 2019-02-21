@@ -1,0 +1,8 @@
+<phpunit colors="true"
+         bootstrap="vendor/autoload.php">
+    <testsuites>
+        <testsuite name="Pipeliner tests">
+            <directory>test/</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
